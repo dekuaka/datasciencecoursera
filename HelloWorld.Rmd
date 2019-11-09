@@ -7,5 +7,6 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ## This is a markdown file
+## This is 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
